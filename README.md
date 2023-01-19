@@ -1,0 +1,1 @@
+This project was done in C++. After using certain functions to load and render a 3D model with a wireframe you can add shading and object transformation in order to create a gif of an object spinning in a circle. For this project I made a bunny rabbit as that object.
